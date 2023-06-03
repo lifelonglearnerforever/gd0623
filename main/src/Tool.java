@@ -7,7 +7,6 @@ public abstract class Tool {
     String toolType;
     String brand;
     BigDecimal dailyCharge;
-    // Removed rental agreement variables from here
     boolean isWeekdayCharge;
     boolean isWeekendCharge;
     boolean isHolidayCharge;
